@@ -1,0 +1,39 @@
+As we were working on enhancing the existing Resume RAG application by implementing the following features:
+
+- Re-ranking of retrieved resumes
+- Deduplication of repeated results
+- Summarization of the final results
+- Complete end-to-end pipeline integration
+- Display all relevant results clearly on the UI
+
+As already 2 are completed, confirm and proceed further
+
+Lets execute one by one.
+[STRICT] DO NOT HALLUCINATE AND DONT PROCEED TO NEXT PHASE UNTIL I APPROVE
+
+
+After implementation of each feature, verify and share the verification steps. I am expecting request body ,response body to test in postman and also in live 
+
+Once verified from my end and confirmed go for the next one.
+
+----------------------------------------------
+Okay now,
+Customize the application based on my own  branding, including:
+
+- Organization name and logo
+- Brand theme and colours
+- Professional UI layout
+- Responsive design
+- Loading, success, validation, and error messages
+- Any other relevant organization-specific enhancements
+
+Lets execute one by one.
+[STRICT] DO NOT HALLUCINATE AND DONT PROCEED TO NEXT PHASE UNTIL I APPROVE
+
+After implementation of each item, verify and share the verification steps for checking the changes in frontend url
+
+Once verified each item from my end and then confirmed, go for the next one.
+-----------------------------------------------
+
+ 
+
